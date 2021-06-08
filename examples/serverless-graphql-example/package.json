@@ -19,7 +19,7 @@
     "@types/node-fetch": "^2.5.4",
     "@types/uuid": "^3.4.6",
     "apollo-server-lambda": "^2.12.0",
-    "aws-lambda": "^1.0.4",
+    "aws-lambda": "^1.0.5",
     "aws-sdk": "^2.597.0",
     "querystring": "^0.2.0",
     "simple-dynamodb": "^1.0.0",
