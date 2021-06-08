@@ -40,10 +40,10 @@ argparse@^1.0.7:
   dependencies:
     sprintf-js "~1.0.2"
 
-aws-lambda@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/aws-lambda/-/aws-lambda-1.0.4.tgz#98cd69de2f3f98fe551f44f7db5ec77ce289cefa"
-  integrity sha512-fihe6tdBrOCGa30XhrazSoGC8Iq7wxPMzuzbH5X8mzNekyvBFgur5HSRSPASk5LbnnNip46WTbcU0XQ48kpknw==
+aws-lambda@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/aws-lambda/-/aws-lambda-1.0.5.tgz#9f40ca36da2aca8345230d6252c6e0da5a772dcf"
+  integrity sha512-rRBZT5mitbeb/qdqHrFiymFQ8k+uc8WlN2Y16OhsCEZzYHKRqFzRirO7gIozDohNuu7T27S6w88KBFpI0cS1NQ==
   dependencies:
     aws-sdk "*"
     commander "^3.0.2"
